@@ -1,0 +1,33 @@
+- Customer Help Center
+  - Ride with us
+    - [How to create an account](customer/1-create-account.md)
+    - [Device recommendations](customer/2-device-recommendation.md)
+  - Tips during rides
+    - [Adding favorite locations](customer/3-add-favorite-locations.md)
+    - [Request a ride](customer/4-request-a-ride.md)
+    - [Request rides for others](customer/5-request-for-others.md)
+    - [Additional destination](customer/6-additional-destination.md)
+    - [Contact my driver](customer/7-contact-driver.md)
+    - [Share my location](customer/8-share-location.md)
+    - [Why isn't my booking accepted](customer/9-booking-not-accepted.md)
+    - [Get emergency assistance](customer/10-emergency-assistance.md)
+    - [Changing booking notes](customer/11-change-booking-notes.md)
+    - [Add flight details](customer/12-add-flight-details.md)
+    - [Apply promotion code](customer/13-apply-promotion-code.md)
+    - [Change my destination](customer/14-change-my-destination.md)
+    - [Share my ride status](customer/15-share-my-ride-status.md)
+    - [Book trip in advance ](customer/16-advance-trip.md)
+  - After rides
+    - [Find my lost items](customer/17-lost-items.md)
+    - [Get a receipt](customer/18-get-receipt.md)
+    - [Rate my driver](customer/19-rate-driver.md)
+    - [Tip my driver](customer/20-tip-driver.md)
+  - Troubleshooting
+    - [No verification code](customer/21-verification-code.md)
+    - [My location is wrong](customer/22-location-wrong.md)
+    - [No emails or receipts](customer/23-no-email-receipts.md)
+    - [My app can't open or shows errors](customer/24-app-issue.md)
+    - [My driver didn't show up](customer/25-driver-no-show.md)
+    - [Driver pickup wrong person](customer/26-driver-pickup-wrong-person.md)
+    - [Searched address doesn't exist](customer/27-address-non-exisit.md)
+    - [Pick or drop off location is wrong](customer/28-pickup-drop-off-wrong.md)
